@@ -1,5 +1,5 @@
 <h1>Hello, I'm Adefolaju! <br/> 
-  <h2> Cybersecurity Professional & Author</h2>
+  <h2> Cybersecurity Student</h2>
 
 
   <h2> My Cybersecurity Projects:</h2>
