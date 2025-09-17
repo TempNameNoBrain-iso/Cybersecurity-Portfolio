@@ -5,7 +5,7 @@
   <h2> My Cybersecurity Projects:</h2>
 
 - <b>ChattahoocheeTech Cybersecurity Program</b>
-  - [Exploring The 7 Domains of a Typical IT Infrastructure](file:///C:/Users/BillNye/Downloads/Exploring%20the%20Seven%20Domains%20of%20a%20Typical%20IT%20Infrastructure%20(4e)%20-%20Adefolaju%20Sijuwade.pdf)
+  - [Exploring The 7 Domains of a Typical IT Infrastructure](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/Ef5ZWNKKg8RDgTkODddVrOABkqcxlYf2BXgevLn_S_Z9BA?e=S2Ysia)
   - [Performing a Vulnerability Assessment](file:///C:/Users/BillNye/Downloads/Performing%20a%20Vulnerability%20Assessment%20(4e)%20-%20Adefolaju%20Sijuwade.pdf)
   - [Performing Packet Capture and Traffic Analysis](file:///C:/Users/BillNye/Downloads/Performing%20Packet%20Capture%20and%20Traffic%20Analysis%20(4e)%20-%20Adefolaju%20Sijuwade.pdf)
   - [Applying User Authentication and Access Controls](file:///C:/Users/BillNye/Downloads/Applying%20User%20Authentication%20and%20Access%20Controls%20(4e)%20-%20Adefolaju%20Sijuwade.pdf)
