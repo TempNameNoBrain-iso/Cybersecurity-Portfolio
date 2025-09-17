@@ -10,6 +10,7 @@
   - [Performing Packet Capture and Traffic Analysis](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EazJNAiQnK1Oh2WoK7JniHwBX1uPqlD5cNCaPXE7fWxe8g?e=ei6zud)
   - [Applying User Authentication and Access Controls](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EdF-Hjyi_IBOpkWgBshJc2kBEDuvpRPXmZOP5kZodQMZAw?e=2axEJi)
   - [Using Encryption to Enhance Confidentiality and Integrity](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EWiUZmVchPVHuJMZVvW9aO0BHpG2D9ViWEftb4PQbuj-lg?e=xKqH17)
+  - [Assessing Common Attack Vectors](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EUav0fG6mW5AnBTWr3ZqlG8BbNFp-NTYG6kDcAn9pCSGWQ?e=G5PaaX)
 
  <h2>Information Security Infographics:</h2>
 
