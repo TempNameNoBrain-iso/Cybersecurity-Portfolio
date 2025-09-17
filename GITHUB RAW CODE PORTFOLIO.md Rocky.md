@@ -7,7 +7,7 @@
 - <b>ChattahoocheeTech Cybersecurity Program</b>
   - [Exploring The 7 Domains of a Typical IT Infrastructure](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/Ef5ZWNKKg8RDgTkODddVrOABkqcxlYf2BXgevLn_S_Z9BA?e=S2Ysia)
   - [Performing a Vulnerability Assessment](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EZDeREyONapGoFSbXwzaMWUBRP5G5_4ufLW_UAOak-QLCA?e=xg3yJl)
-  - [Performing Packet Capture and Traffic Analysis](file:///C:/Users/BillNye/Downloads/Performing%20Packet%20Capture%20and%20Traffic%20Analysis%20(4e)%20-%20Adefolaju%20Sijuwade.pdf)
+  - [Performing Packet Capture and Traffic Analysis](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EazJNAiQnK1Oh2WoK7JniHwBX1uPqlD5cNCaPXE7fWxe8g?e=ei6zud)
   - [Applying User Authentication and Access Controls](file:///C:/Users/BillNye/Downloads/Applying%20User%20Authentication%20and%20Access%20Controls%20(4e)%20-%20Adefolaju%20Sijuwade.pdf)
   - [Using Encryption to Enhance Confidentiality and Integrity](file:///C:/Users/BillNye/Downloads/Using%20Encryption%20to%20Enhance%20Confidentiality%20and%20Integrity%20(4e)%20-%20Adefolaju%20Sijuwade.pdf)
 
