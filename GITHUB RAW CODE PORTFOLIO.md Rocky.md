@@ -9,7 +9,7 @@
   - [Performing a Vulnerability Assessment](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EZDeREyONapGoFSbXwzaMWUBRP5G5_4ufLW_UAOak-QLCA?e=xg3yJl)
   - [Performing Packet Capture and Traffic Analysis](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EazJNAiQnK1Oh2WoK7JniHwBX1uPqlD5cNCaPXE7fWxe8g?e=ei6zud)
   - [Applying User Authentication and Access Controls](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EdF-Hjyi_IBOpkWgBshJc2kBEDuvpRPXmZOP5kZodQMZAw?e=2axEJi)
-  - [Using Encryption to Enhance Confidentiality and Integrity](file:///C:/Users/BillNye/Downloads/Using%20Encryption%20to%20Enhance%20Confidentiality%20and%20Integrity%20(4e)%20-%20Adefolaju%20Sijuwade.pdf)
+  - [Using Encryption to Enhance Confidentiality and Integrity](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EWiUZmVchPVHuJMZVvW9aO0BHpG2D9ViWEftb4PQbuj-lg?e=xKqH17)
 
  <h2>Information Security Infographics:</h2>
 
