@@ -14,10 +14,10 @@
  <h2>Information Security Infographics:</h2>
 
  - <b>Information Security Fundamentals Graphics</b>
-   - [7 Domains of IT Infrastructure](file:///C:/Users/BillNye/Downloads/7%20Domains%20of%20IT%20Infrastructure%20Chapter%201%20Infographic.pdf)
-   - [MOBILE IP](file:///C:/Users/BillNye/Downloads/Mobile%20IP%20Chapter%202%20Infographic.pdf)
-   - [Malicious Attacks](file:///C:/Users/BillNye/Downloads/What%20is%20a%20Malicious%20Attack.pdf)
-   - [OSI Model](file:///C:/Users/BillNye/Downloads/OSI%20Model%20Infographic.pdf)
+   - [7 Domains of IT Infrastructure](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EVzD6cXUIE9On1TLxFF0G-ABkeptjrVxFR80MrNXgU5TeQ?e=Yr23Q8)
+   - [MOBILE IP](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EUsJbMd0Vq5DoEh1Gy7OPxkBGDkYidZbqE2sTdTKgKSQ7Q?e=pbb9Rc)
+   - [Malicious Attacks](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EYwyvvZNAQ9Bo0S9rDSbIF0BQU0IqC_6jJA9UiaR5jAoXA?e=hOrw9d)
+   - [OSI Model](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/ERukgjsCINVKiukNxLEVI3IBiN-7kJ2Zcm5Oz0tpVVB7qA?e=I63wNv)
 
 
   
