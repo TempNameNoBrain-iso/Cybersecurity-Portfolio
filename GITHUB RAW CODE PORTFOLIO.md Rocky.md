@@ -11,6 +11,7 @@
   - [Applying User Authentication and Access Controls](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EdF-Hjyi_IBOpkWgBshJc2kBEDuvpRPXmZOP5kZodQMZAw?e=2axEJi)
   - [Using Encryption to Enhance Confidentiality and Integrity](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EWiUZmVchPVHuJMZVvW9aO0BHpG2D9ViWEftb4PQbuj-lg?e=xKqH17)
   - [Assessing Common Attack Vectors](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/EUav0fG6mW5AnBTWr3ZqlG8BbNFp-NTYG6kDcAn9pCSGWQ?e=G5PaaX)
+  - [Implementing an IT Security Policy](https://studentschattahoocheetech-my.sharepoint.com/:b:/g/personal/asijuwa2_students_chattahoocheetech_edu1/ETpsqxh5B4BNvgR_qZ9YSDUBxYSMydQKmXyNcRiuRRnzJw?e=V4gNeb)
 
  <h2>Information Security Infographics:</h2>
 
